@@ -98,7 +98,7 @@ endmodule
 ## Simulation Results
 
 ### Nclaunch Work Library Window
-![1](https://github.com/user-attachments/assets/5132edd2-7f61-482c-8255-8b7f6cd3269c)
+![1](https://github.com/user-attachments/assets/d6c2115b-9539-40d8-8511-d740e675f2a6)
 
 
 ### Simulation Waveforms
